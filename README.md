@@ -1,5 +1,5 @@
 # PageRank
-Pagerank given node and edges.
+Pagerank with given node and edges.
 
 ### Pagerank implementation in Python
 
@@ -28,4 +28,10 @@ option:
 
 ```bash
 -t --processes | Multi-processes for large matrix
+```
+
+Run:
+
+```bash
+python3 pagerank.py -f web-Google.txt
 ```
