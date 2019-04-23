@@ -1,5 +1,6 @@
 # PageRank
 Pagerank with given node and edges.
+See: https://levyhsu.com/2019/04/page-rank-in-python/
 
 ### Pagerank implementation in Python
 
