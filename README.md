@@ -11,10 +11,10 @@ option:
 -f --file | Target file. 
 ```
 Format: 
-  '# Comment'
-  From_node_id(tab)To_node_id
-  From_node_id(tab)To_node_id
-  From_node_id(tab)To_node_id
+  '# Comment'<br/>
+  From_node_id(tab)To_node_id<br/>
+  From_node_id(tab)To_node_id<br/>
+  From_node_id(tab)To_node_id<br/>
   
 ```bash
 -m --matrix | Use tradition matrix mode instead of Graph mode,requires more memory
