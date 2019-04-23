@@ -11,7 +11,7 @@ option:
 -f --file | Target file. 
 ```
 Format: 
-  # Comment
+  '# Comment'
   From_node_id(tab)To_node_id
   From_node_id(tab)To_node_id
   From_node_id(tab)To_node_id
