@@ -5,16 +5,17 @@ Pagerank given node and edges.
 
 Sample input file: http://snap.stanford.edu/data/web-Google.html
 
-option:
-
-```bash
--f --file | Target file. 
-```
 Format: 
   '# Comment'<br/>
   From_node_id(tab)To_node_id<br/>
   From_node_id(tab)To_node_id<br/>
   From_node_id(tab)To_node_id<br/>
+
+option:
+
+```bash
+-f --file | Target file. 
+```
   
 ```bash
 -m --matrix | Use tradition matrix mode instead of Graph mode,requires more memory
